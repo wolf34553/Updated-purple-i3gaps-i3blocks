@@ -1,0 +1,8 @@
+{
+	"changelog": {
+		"currentversion": "1.9.0"
+	},
+	"engines": {
+		"translator": "google"
+	}
+}

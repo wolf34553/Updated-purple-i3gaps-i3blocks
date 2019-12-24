@@ -1,0 +1,13 @@
+{
+	"changelog": {
+		"currentversion": "2.6.6"
+	},
+	"settings": {
+		"showAnnouncement": true,
+		"showForNormal": false,
+		"showStore": true,
+		"showText": true,
+		"showVoice": true,
+		"sortNative": false
+	}
+}

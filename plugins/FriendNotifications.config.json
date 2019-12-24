@@ -1,0 +1,217 @@
+{
+	"amounts": {
+		"checkInterval": 10,
+		"desktopTime": 5,
+		"toastTime": 5
+	},
+	"changelog": {
+		"currentversion": "1.3.7"
+	},
+	"friends": {
+		"184366159372615680": {
+			"desktop": false,
+			"disabled": false,
+			"online": true,
+			"mobile": true,
+			"idle": false,
+			"dnd": false,
+			"playing": false,
+			"listening": false,
+			"streaming": false,
+			"offline": true
+		},
+		"188400474628685824": {
+			"desktop": false,
+			"disabled": false,
+			"online": true,
+			"mobile": true,
+			"idle": false,
+			"dnd": false,
+			"playing": false,
+			"listening": false,
+			"streaming": false,
+			"offline": true
+		},
+		"289945638072877056": {
+			"desktop": false,
+			"disabled": false,
+			"online": true,
+			"mobile": true,
+			"idle": false,
+			"dnd": false,
+			"playing": false,
+			"listening": false,
+			"streaming": false,
+			"offline": true
+		},
+		"410569822431084555": {
+			"desktop": false,
+			"disabled": false,
+			"online": true,
+			"mobile": true,
+			"idle": false,
+			"dnd": false,
+			"playing": false,
+			"listening": false,
+			"streaming": false,
+			"offline": true
+		},
+		"463833180844326924": {
+			"desktop": false,
+			"disabled": false,
+			"online": true,
+			"mobile": true,
+			"idle": false,
+			"dnd": false,
+			"playing": false,
+			"listening": false,
+			"streaming": false,
+			"offline": true
+		},
+		"478317966077853707": {
+			"desktop": false,
+			"disabled": false,
+			"online": true,
+			"mobile": true,
+			"idle": false,
+			"dnd": false,
+			"playing": false,
+			"listening": false,
+			"streaming": false,
+			"offline": true
+		},
+		"610367008391036928": {
+			"desktop": false,
+			"disabled": false,
+			"online": true,
+			"mobile": true,
+			"idle": false,
+			"dnd": false,
+			"playing": false,
+			"listening": false,
+			"streaming": false,
+			"offline": true
+		},
+		"89143787414122496": {
+			"desktop": false,
+			"disabled": false,
+			"online": true,
+			"mobile": true,
+			"idle": false,
+			"dnd": false,
+			"playing": false,
+			"listening": false,
+			"streaming": false,
+			"offline": true
+		},
+		"97340745890930688": {
+			"desktop": false,
+			"disabled": false,
+			"online": true,
+			"mobile": true,
+			"idle": false,
+			"dnd": false,
+			"playing": false,
+			"listening": false,
+			"streaming": false,
+			"offline": true
+		}
+	},
+	"notificationsounds": {
+		"desktopdnd": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopidle": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktoplistening": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopmobile": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopoffline": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktoponline": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopplaying": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"desktopstreaming": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastdnd": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastidle": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastlistening": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastmobile": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastoffline": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastonline": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toastplaying": {
+			"url": null,
+			"song": null,
+			"mute": false
+		},
+		"toaststreaming": {
+			"url": null,
+			"song": null,
+			"mute": false
+		}
+	},
+	"notificationstrings": {
+		"dnd": "$user changed status to '$status'",
+		"idle": "$user changed status to '$status'",
+		"listening": "$user started listening to '$song'",
+		"mobile": "$user changed status to '$status'",
+		"offline": "$user changed status to '$status'",
+		"online": "$user changed status to '$status'",
+		"playing": "$user started playing '$game'",
+		"streaming": "$user started streaming '$game'"
+	},
+	"settings": {
+		"disableForNew": false,
+		"muteOnDND": false,
+		"openOnClick": false
+	}
+}

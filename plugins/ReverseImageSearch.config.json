@@ -1,0 +1,24 @@
+{
+	"changelog": {
+		"currentversion": "3.4.9"
+	},
+	"engines": {
+		"Baidu": true,
+		"Bing": true,
+		"Google": true,
+		"IQDB": true,
+		"Reddit": true,
+		"SauceNAO": true,
+		"Sogou": true,
+		"TinEye": true,
+		"WhatAnime": true,
+		"Yandex": true,
+		"_all": true
+	},
+	"settings": {
+		"addEmojiEntry": true,
+		"addGuildIconEntry": true,
+		"addUserAvatarEntry": true,
+		"useChromium": false
+	}
+}
